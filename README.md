@@ -1,6 +1,6 @@
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=sukrutas&show_icons=true">
 
-# Merhaba, ben Şükrü Taş! 
+# Hi, I'm Şükrü Taş! 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sukrutas" alt="sukrutas" /> </p>
 
 [![](https://img.shields.io/twitter/follow/suqrutas?style=social)](https://www.twitter.com/suqrutas)
