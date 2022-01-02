@@ -11,3 +11,5 @@
 [![](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@krta_63838)
 [![](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_sukrutas)
 [![Mail Badge](https://img.shields.io/badge/sukrutas99@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:sukrutas99@gmail.com)](mailto:sukrutas99@gmail.com)
+
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="220" />
