@@ -1,4 +1,4 @@
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=sukrutas&show_icons=true">
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="220" />
 
 # Hi, I'm Şükrü Taş! 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sukrutas" alt="sukrutas" /> </p>
@@ -12,4 +12,4 @@
 [![](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_sukrutas)
 [![Mail Badge](https://img.shields.io/badge/sukrutas99@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:sukrutas99@gmail.com)](mailto:sukrutas99@gmail.com)
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="220" />
+
