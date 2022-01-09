@@ -3,7 +3,8 @@
 # Hi, I'm Şükrü Taş! 
 
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sukrutas/)
-[![](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@krta_63838)
+[![](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@sukrutas)
+[![](https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/sukrutas)
 [![Mail Badge](https://img.shields.io/badge/sukrutas99@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:sukrutas99@gmail.com)](mailto:sukrutas99@gmail.com)
 
 **Languages and Tools:**
